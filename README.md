@@ -1,4 +1,4 @@
- <html lang="en">
+ú <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -99,7 +99,7 @@
 </head>
 <body>
   <div class="background-image">
-    <img src="mimi1.jpg" style="top: 10%; left: 5%; width: 100px;">
+    <img src="Messenger_creation_117FFBDF-18A3-424B-BD57-9B157DD16504.jpeg" style="top: 10%; left: 5%; width: 100px;">
     <img src="mimi2.jpg" style="top: 30%; left: 70%; width: 120px;">
     <img src="mimi3.jpg" style="top: 60%; left: 20%; width: 80px;">
     <img src="mimi4.jpg" style="top: 80%; left: 50%; width: 150px;">

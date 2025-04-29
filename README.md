@@ -103,7 +103,7 @@
     <img src="Messenger_creation_3766045633625865.jpeg" style="top: 30%; left: 70%; width: 120px;">
     <img src="Messenger_creation_7221711584592118.jpeg" style="top: 60%; left: 20%; width: 80px;">
     <img src="Messenger_creation_971009154619809.jpeg" style="top: 80%; left: 50%; width: 150px;">
-    <img src="" style="top: 40%; left: 40%; width: 90px;">
+    <img src="Messenger_creation_A520E4E3-C206-44D7-A52F-9AE8DEE4C698.jpeg" style="top: 40%; left: 40%; width: 90px;">
   </div>
 
   <header>
